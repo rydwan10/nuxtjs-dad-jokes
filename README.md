@@ -1,5 +1,6 @@
-# dadjokes
-
+# Nuxt.js dadjokes
+This project is based on Brad Traversy's YouTube Video "Nuxt.js Crash Course"
+Link: https://www.youtube.com/watch?v=ltzlhAxJr74
 ## Build Setup
 
 ```bash
